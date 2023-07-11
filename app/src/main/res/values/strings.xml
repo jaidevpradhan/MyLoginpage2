@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Login page</string>
+    <string name="username">Enter your name\n</string>
+    <string name="password">Enter your password</string>
+    <string name="no_account_msg">Don\'t have an account yet?</string>
+    <string name="register">Register now!</string>
+</resources>
